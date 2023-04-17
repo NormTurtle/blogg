@@ -10,7 +10,7 @@ title: i dont want anythink than chose theat poison please
 
 
 ```
-$ git init
+$ git init goffy-aahh - site
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
